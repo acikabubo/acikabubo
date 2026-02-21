@@ -5,7 +5,7 @@ real-time systems, and hardware-web integrations.
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks:** Python · FastAPI · Django · Flask  
+**Languages & Frameworks:** Python · FastAPI · Django
 **Databases:** PostgreSQL · Redis · SQLite  
 **Tools & Other:** Docker · WebSockets · Redis Pub/Sub · LDAP · Git
 
