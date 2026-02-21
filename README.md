@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aleksandar 👋
 
-<!--
-**acikabubo/acikabubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Python Developer with 10+ years of experience building APIs, 
+real-time systems, and hardware-web integrations.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks:** Python · FastAPI · Django · Flask  
+**Databases:** PostgreSQL · Redis · SQLite  
+**Tools & Other:** Docker · WebSockets · Redis Pub/Sub · LDAP · Git
+
+## 🚀 What I Do
+
+- Design and build RESTful APIs
+- Real-time communication systems (WebSockets, Redis Pub/Sub)
+- Hardware-web integration
+- Legacy system modernization (Django → FastAPI)
+
+## 📫 Connect with Me
+
+- LinkedIn: [aleksandar-krsteski](https://www.linkedin.com/in/aleksandar-krsteski-19856464/)
+- Email: krsteski_aleksandar@hotmail.com
+
+---
+
+*May the Force be with you* 🌌
